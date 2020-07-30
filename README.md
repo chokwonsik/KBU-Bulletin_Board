@@ -1,4 +1,4 @@
-# KOREAN BIBLE University Bulletin Board
+# KOREAN BIBLE university Bulletin Board
 
  JSP, MySQL
 
