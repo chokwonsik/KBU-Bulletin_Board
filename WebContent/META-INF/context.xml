@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context path="/">
+    <Resource name="jdbc/kbubook" auth="Container"
+              type="javax.sql.DataSource" driverClassName="com.mysql.jdbc.Driver"
+              username="kbu_book"
+              password="kbu_book" url="jdbc:mysql://210.119.129.186:33306/kbu_book?serverTimezone=UTC" maxWait="5000"/>
+</Context>
