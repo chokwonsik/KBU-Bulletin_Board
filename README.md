@@ -1,5 +1,5 @@
 # KOREAN BIBLE UNIVERSITY Bulletin Board
 
- JAVA, CSS, JavasCript, JSP, MySQL
+ JAVA, CSS, JavaScript, JSP, MySQL
 
 January 2019 to June 2019
